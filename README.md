@@ -4,22 +4,22 @@
 <meta charset="UTF-8">
 <title>G Sanjay - Resume</title>
 </head>
-<body>
-<div class="container">
-  <header class="section">
-    <h1>G Sanjay</h1>
-    <p class="contact">Mysuru, Karnataka  •  <a href="mailto:sanjayguru13@gmail.com">sanjayguru13@gmail.com</a>  •  +91 8248976603  •  <a href="https://linkedin.com/in/sanjay0202" target="_blank">LinkedIn</a></p>
-    <hr class="heading-line" />
+<body style="font-family: Arial, sans-serif; line-height:1.6; color:#333; background:#f9f9f9; margin:0; padding:0;">
+<div style="max-width:800px; margin:2rem auto; padding:1.5rem; background:#fff; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+  <header style="margin-bottom:2rem;">
+    <h1 style="color:#007acc;">G Sanjay</h1>
+    <p style="color:#333;">Mysuru, Karnataka  •  <a href="mailto:sanjayguru13@gmail.com" style="color:#007acc; text-decoration:none;">sanjayguru13@gmail.com</a>  •  +91 8248976603  •  <a href="https://linkedin.com/in/sanjay0202" target="_blank" style="color:#007acc; text-decoration:none;">LinkedIn</a></p>
+    <hr style="border-top:2px solid #007acc; width:50px; margin:0.5rem 0;" />
   </header>
 
-  <section class="section">
-    <h2>Summary</h2>
+  <section style="margin-bottom:2rem;">
+    <h2 style="color:#007acc;">Summary</h2>
     <p>Experienced Senior Developer with 6 years of expertise in designing and implementing secure, scalable contact center solutions using Amazon Connect and AWS services. Proven track record in automating call flows, integrating PII compliance features, and delivering AI-driven enhancements like call categorization and agent assist. Skilled in Python and AWS serverless architecture. Adept at end-to-end solution development, API-based automation, and infrastructure as code. AWS Certified Solutions Architect and Cloud Practitioner with a strong foundation in cloud computing and contact center technologies.</p>
   </section>
 
-  <section class="section">
-    <h2>Professional Experience</h2>
-    <h3>IBM – Bengaluru</h3>
+  <section style="margin-bottom:2rem;">
+    <h2 style="color:#007acc;">Professional Experience</h2>
+    <h3 style="color:#007acc;">IBM – Bengaluru</h3>
     <p><strong>Senior Developer</strong> (Mar 2024 – Present)</p>
     <ul>
       <li>Analyzed new feature proposals, collaborating with cross-functional teams to assess feasibility and define implementation strategies.</li>
@@ -46,31 +46,31 @@
     </ul>
   </section>
 
-  <section class="section">
-    <h2>Education</h2>
-    <ul>
-      <li><strong>Birla Institute of Technology and Science, Pilani</strong> – M.Tech in Computing Systems and Infrastructure, 2019 – 2023</li>
-      <li><strong>Amrita Vishwa Vidyapeetham, Mysuru, Karnataka</strong> – Bachelor of Computer Application, 2016 – 2019</li>
+  <section style="margin-bottom:2rem;">
+    <h2 style="color:#007acc;">Education</h2>
+    <ul style="list-style:none; padding-left:0;">
+      <li style="margin-bottom:0.5rem;"><strong>Birla Institute of Technology and Science, Pilani</strong> – M.Tech in Computing Systems and Infrastructure, 2019 – 2023</li>
+      <li style="margin-bottom:0.5rem;"><strong>Amrita Vishwa Vidyapeetham, Mysuru, Karnataka</strong> – Bachelor of Computer Application, 2016 – 2019</li>
     </ul>
   </section>
 
-  <section class="section">
-    <h2>Additional Skills</h2>
-    <ul>
-      <li><strong>AWS Services:</strong> Amazon Connect, Lex, Lambda, API Gateway, S3, DynamoDB, CloudFront, CloudFormation, Cognito, Polly, Kinesis Data Stream, Firehose, SES, IAM, CLI, AWS SDKs, etc.</li>
-      <li><strong>Programming Languages:</strong> Python, JavaScript, Node.js</li>
-      <li><strong>Web Technology:</strong> HTML, CSS, Bootstrap</li>
-      <li><strong>Tools:</strong> Visual Studio Code, Postman, Buildkite, Harness, Jira, Confluence</li>
+  <section style="margin-bottom:2rem;">
+    <h2 style="color:#007acc;">Additional Skills</h2>
+    <ul style="list-style:none; padding-left:0;">
+      <li style="margin-bottom:0.5rem;"><strong>AWS Services:</strong> Amazon Connect, Lex, Lambda, API Gateway, S3, DynamoDB, CloudFront, CloudFormation, Cognito, Polly, Kinesis Data Stream, Firehose, SES, IAM, CLI, AWS SDKs, etc.</li>
+      <li style="margin-bottom:0.5rem;"><strong>Programming Languages:</strong> Python, JavaScript, Node.js</li>
+      <li style="margin-bottom:0.5rem;"><strong>Web Technology:</strong> HTML, CSS, Bootstrap</li>
+      <li style="margin-bottom:0.5rem;"><strong>Tools:</strong> Visual Studio Code, Postman, Buildkite, Harness, Jira, Confluence</li>
     </ul>
   </section>
 
-  <section class="section">
-    <h2>Certifications</h2>
-    <ul>
-      <li>AWS Certified Solutions Architect</li>
-      <li>Amazon Connect Communications Specialist</li>
-      <li>AWS Generative AI Essentials</li>
-      <li>AWS Certified Cloud Practitioner</li>
+  <section style="margin-bottom:2rem;">
+    <h2 style="color:#007acc;">Certifications</h2>
+    <ul style="list-style:none; padding-left:0;">
+      <li style="margin-bottom:0.5rem;">AWS Certified Solutions Architect</li>
+      <li style="margin-bottom:0.5rem;">Amazon Connect Communications Specialist</li>
+      <li style="margin-bottom:0.5rem;">AWS Generative AI Essentials</li>
+      <li style="margin-bottom:0.5rem;">AWS Certified Cloud Practitioner</li>
     </ul>
   </section>
 
