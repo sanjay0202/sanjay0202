@@ -3,16 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title>G Sanjay - Resume</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background:#f9f9f9; margin:0; padding:0; }
-  .container { max-width: 800px; margin:2rem auto; padding:1.5rem; background:#fff; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
-  h1, h2, h3 { color: #007acc; }
-  ul { list-style: none; padding-left: 0; }
-  li { margin-bottom: 0.5rem; }
-  .contact a { color:#007acc; text-decoration:none; }
-  .section { margin-bottom:2rem; }
-  .heading-line { border-top:2px solid #007acc; width:50px; margin:0.5rem 0; }
-</style>
 </head>
 <body>
 <div class="container">
